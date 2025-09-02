@@ -19,9 +19,10 @@ I create content spreading **PC tips** and **tech knowledge**, sharing insights 
 - YouTube: [ZephrumxTech](https://www.youtube.com/@ZephrumxTech)
 
 ## 🌟 Featured Project
-[Unblockdev.com](https://unblockdev.com) – My flagship gaming site with **thousands of users**.  
-Fast, fun, and interactive gameplay with community-driven features.
+[UnblockDev.com](https://unblockdev.com) – My flagship gaming site with **thousands of users**.  
+Fast, fun, and interactive gameplay designed for gamers and communities.
 
+---
 
 # 💻 Tech Stack
 
