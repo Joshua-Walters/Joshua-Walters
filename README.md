@@ -45,6 +45,7 @@ Fast, fun, and interactive gameplay designed for gamers and communities.
 ![Raylib](https://img.shields.io/badge/Raylib-FA7268?style=for-the-badge&logo=raylib&logoColor=white) 
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white) 
 ![Turtle](https://img.shields.io/badge/Turtle-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
+<br>
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
