@@ -9,14 +9,19 @@ I am a passionate, self-taught programmer exploring **advanced coding**, **machi
 
 ## 🚀 What I'm Up To
 - 🤖 Learning **C++** with **SFML** and **Raylib**, building projects and honing my skills  
-- 💻 Further self-taught learning on **Educative**, exploring **Machine Learning** and **Memory Management**  
+- 💻 Further self-taught learning on **Educative**, exploring **Machine Learning** and **Memory Management**
 
 ## 🎓 Educational Content
 I create content spreading **PC tips** and **tech knowledge**, sharing insights and tutorials with the community:  
 
 - Instagram: [zephrumxtech](https://www.instagram.com/zephrumxtech/)  
 - TikTok: [zephrumxtech](https://www.tiktok.com/@zephrumxtech)  
-- YouTube: [ZephrumxTech](https://www.youtube.com/@ZephrumxTech)  
+- YouTube: [ZephrumxTech](https://www.youtube.com/@ZephrumxTech)
+
+## 🌟 Featured Project
+[UnblockDev](https://unblockdev.com) – My flagship gaming site with **thousands of users**.  
+Fast, fun, and interactive gameplay with community-driven features.
+
 
 # 💻 Tech Stack
 
