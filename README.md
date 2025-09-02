@@ -1,49 +1,43 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Josh Walters</h1>
 
 # 💫 About Me:
-I am a fourth-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a young, self-taught programmer, passionate about exploring advanced coding, machine learning, and building innovative software applications.
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building Spring Boot applications with PostgreSQL
-
-Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
+- 🤖 Learning C++ with SFML and Raylib, building projects and improving skills
+- 💻 Further self-taught learning on Educative, exploring Machine Learning and Memory Management
 
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+I'm also an educational content creator, spreading PC tips and tech knowledge to people, and any advice on:
 
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
+- [Instagram](https://www.instagram.com/zephrumxtech/)
+- [TikTok](https://www.tiktok.com/@zephrumxtech)
+- [YouTube](https://www.youtube.com/@ZephrumxTech)
 
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
 
 # 💻 Tech Stack:
+
+# 💻 Tech Stack:
+
 Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 Developer Tools: 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-Libraries/Frameworks: 
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Drools](https://img.shields.io/badge/Drools-%23FF6347.svg?style=for-the-badge&logo=drools&logoColor=white)
+Libraries / Frameworks: 
+![SFML](https://img.shields.io/badge/SFML-0099FF?style=for-the-badge&logo=SFML&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-FA7268?style=for-the-badge&logo=raylib&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
+![Turtle](https://img.shields.io/badge/Turtle-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-FF0000?style=for-the-badge&logo=roblox&logoColor=white)
